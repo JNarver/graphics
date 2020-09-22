@@ -1,0 +1,15 @@
+D:\c#Local\Graphics1\Graphics1\bin\Debug\netcoreapp3.1\Graphics1.exe
+D:\c#Local\Graphics1\Graphics1\bin\Debug\netcoreapp3.1\Graphics1.deps.json
+D:\c#Local\Graphics1\Graphics1\bin\Debug\netcoreapp3.1\Graphics1.runtimeconfig.json
+D:\c#Local\Graphics1\Graphics1\bin\Debug\netcoreapp3.1\Graphics1.runtimeconfig.dev.json
+D:\c#Local\Graphics1\Graphics1\bin\Debug\netcoreapp3.1\Graphics1.dll
+D:\c#Local\Graphics1\Graphics1\bin\Debug\netcoreapp3.1\Graphics1.pdb
+D:\c#Local\Graphics1\Graphics1\obj\Debug\netcoreapp3.1\Graphics1.csprojAssemblyReference.cache
+D:\c#Local\Graphics1\Graphics1\obj\Debug\netcoreapp3.1\Graphics1.AssemblyInfoInputs.cache
+D:\c#Local\Graphics1\Graphics1\obj\Debug\netcoreapp3.1\Graphics1.AssemblyInfo.cs
+D:\c#Local\Graphics1\Graphics1\obj\Debug\netcoreapp3.1\Graphics1.csproj.CoreCompileInputs.cache
+D:\c#Local\Graphics1\Graphics1\obj\Debug\netcoreapp3.1\Graphics1.dll
+D:\c#Local\Graphics1\Graphics1\obj\Debug\netcoreapp3.1\Graphics1.pdb
+D:\c#Local\Graphics1\Graphics1\obj\Debug\netcoreapp3.1\Graphics1.genruntimeconfig.cache
+D:\c#Local\Graphics1\Graphics1\obj\Debug\netcoreapp3.1\Graphics1.Form1.resources
+D:\c#Local\Graphics1\Graphics1\obj\Debug\netcoreapp3.1\Graphics1.csproj.GenerateResource.cache
